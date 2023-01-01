@@ -1,7 +1,17 @@
 [
- {
-  "nama": "abdul fatah",
-  "email": "fatah03111995@gmail.com",
-  "noHp": "085709222315"
- }
+  {
+    "nama": "abdul fatah",
+    "email": "fatah03111995@gmail.com",
+    "noHp": "085709222315"
+  },
+  {
+    "nama": "rizki",
+    "email": "rizki@gmail.com",
+    "noHp": "0812345123"
+  },
+  {
+    "nama": "hanif",
+    "email": "hanif@gmail.com",
+    "noHp": "081312341234"
+  }
 ]
